@@ -1,16 +1,16 @@
-## Hi there 👋
+## boas vindas ao meu perfil🥑
 
-<!--
-**tamires1411/tamires1411** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome e tamires denck
 
-Here are some ideas to get you started:
+- estou estudando na [Alura](https://www.alura.com.br)
+- estou me desenvolvendo na linguagem javaScript
+- utilizo esse espaço para a minha organizaçao e compartilhamento dos meus projetos desenvolvido
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ### voce entrar em contado comigo📪
+
+  tamires.denck@escola.pr.gov.br
+
+  @tamiresdenck_0
+
+![](https://media1.tenor.com/m/LLLJYVQJNVAAAAAC/chefs-kiss-french-chef.gif)
+ 
